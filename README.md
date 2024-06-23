@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<h5 align="center">I am a passionate full-stack developer with a strong foundation in computer science. I specialize in building robust and scalable web applications using the MERN stack (MongoDB, Express, React, Node.js). My goal is to create seamless user experiences and efficient, reusable code across both the front-end and back-end.</h5>
+<h4 align="center">I am a passionate full-stack developer with a strong foundation in computer science. I specialize in building robust and scalable web applications using the MERN stack (MongoDB, Express, React, Node.js). My goal is to create seamless user experiences and efficient, reusable code across both the front-end and back-end.</h4>
 
 ###
 
